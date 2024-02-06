@@ -7,8 +7,8 @@ import { Header } from '@/components/layout/header'
 const font = Space_Mono({ weight: ['400', '700'], subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Magik Blog',
-  description: 'The best blog in the world!',
+  title: 'Portfolio',
+  description: 'Feel free to contact me!',
 }
 
 export default function RootLayout({
